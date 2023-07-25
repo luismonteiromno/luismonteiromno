@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luis Monteiro
+## Opa! Eu sou o Luis Monteiro
 <img src="https://github-readme-stats.vercel.app/api?username=LuisMonteiroDev&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiroDev&theme=radical"/>
 
