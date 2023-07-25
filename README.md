@@ -1,7 +1,7 @@
 ## Olá!, sou o Luis Monteiro
 <img src="https://github-readme-stats.vercel.app/api?username=LuisMonteiroDev&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiroDev&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Sentryperfomance"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Sentryperfomance&description=False"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
