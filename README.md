@@ -1,4 +1,4 @@
-## Opa! Eu sou o Luis
+## Olá! Eu sou o Luis
 <img src="https://github-readme-stats.vercel.app/api?username=LuisMonteiroDev&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiroDev&theme=radical"/>
 
@@ -9,9 +9,12 @@
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Luis-Postgres" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="Luis-Postman" height="40" width="40"   
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
+  <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  
 <!--   <img align="center" alt="Luis-Mysql" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> -->
   <img align="center" alt="Luis-Android-Studio" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
