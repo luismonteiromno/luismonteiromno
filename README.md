@@ -18,8 +18,6 @@
   <img align="center" alt="Luis-Postman" height="40" width="40"   
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
   <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  
-<!--   <img align="center" alt="Luis-Mysql" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> -->
   <img align="center" alt="Luis-Android-Studio" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 </div>
