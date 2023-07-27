@@ -1,4 +1,8 @@
-## Olá! Eu sou o Luis
+## Olá! Eu sou o Luis 
+##### <li> Técnico de Informática
+##### <li> Developer Jr || Fullstack
+##### <li> Análise e Desenvolvimento de Sistemas
+     
 <img src="https://github-readme-stats.vercel.app/api?username=LuisMonteiroDev&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiroDev&theme=radical"/>
 
