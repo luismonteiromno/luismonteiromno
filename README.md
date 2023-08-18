@@ -20,12 +20,13 @@
   <li> <strong>Backend:</strong>
   <img align="center" alt="Luis-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-Pypi" height="35" width="33" src="https://pypi.org/static/images/logo-small.2a411bc6.svg"/>
-<!--   <img align="center" alt="Luis-Cplusplus" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> -->
+<!--   <img align="center" alt="Luis-Cplusplus" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"> -->
   <img align="center" alt="Luis-Django" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Django.svg"/>
+<!--   <img align="center" alt="Luis-NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> -->
   <img align="center" alt="Luis-Postgres" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <!--   <img align="center" alt="Luis-MySQL" height="40" width="40"   
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> -->
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> -->
   <img align="center" alt="Luis-Postman" height="35" width="40"   
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
   <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
