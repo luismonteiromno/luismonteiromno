@@ -3,8 +3,8 @@
 ##### <li> Developer Junior || Backend
 ##### <li> Análise e Desenvolvimento de Sistemas 2023 - 2025
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuisMonteiroDev&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiroDev&theme=radical&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=LuisMonteiroDev&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiroDev&theme=tokyonight&layout=compact"/>
 
 <div style="display: inline_block"><br>
   <li> <strong>Frontend:</strong>
