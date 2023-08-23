@@ -32,7 +32,6 @@
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
   <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
-  
   ##
  
 <div> 
