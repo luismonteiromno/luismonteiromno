@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiroDev&theme=radical&layout=compact"/>
 
 <div style="display: inline_block"><br>
-<strong> Tecnologias que utilizo com frequência: </strong>
+<strong> Tecnologias utilizadas com frequência: </strong>
 <br>
  <br>
   <li> <strong>Frontend:</strong>
