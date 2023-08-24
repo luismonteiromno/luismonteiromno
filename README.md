@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luis 
 ##### <li> Técnico em Informática
-##### <li> Developer Junior || Backend
+##### <li> Developer Junior || FullStack
 ##### <li> Análise e Desenvolvimento de Sistemas 2023 - 2025
 
  <img src="https://github-readme-stats.vercel.app/api?username=LuisMonteiroDev&show_icons=true&theme=radical"/>
