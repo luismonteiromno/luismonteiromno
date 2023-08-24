@@ -7,6 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiroDev&theme=radical&layout=compact"/>
 
 <div style="display: inline_block"><br>
+<strong> Tecnologias que utilizo com frequência: </strong>
+<br>
+ <br>
   <li> <strong>Frontend:</strong>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
