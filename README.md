@@ -26,9 +26,9 @@
 <!--    <img align="center" alt="Luis-C" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg">
   <img align="center" alt="Luis-Cplusplus" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg"> -->
   <img align="center" alt="Luis-Django" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Django.svg"/>
-    <img align="center" alt="Luis-Django-Rest-Framework" height="70" width="90" src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png"/>
-<!--    <img align="center" alt="Luis-NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> 
-  <img align="center" alt="Luis-ExpressJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>  -->
+  <img align="center" alt="Luis-Django-Rest-Framework" height="70" width="90" src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png"/>
+  <img align="center" alt="Luis-NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> 
+  <img align="center" alt="Luis-ExpressJS" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg"/> 
   <img align="center" alt="Luis-Postgres" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <!--   <img align="center" alt="Luis-MySQL" height="40" width="40"   
