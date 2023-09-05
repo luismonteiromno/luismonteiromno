@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Luis 
-##### <li> Técnico em Informática
+#### <li> Técnico em Informática
 ##### <li> Developer Junior || FullStack
 ##### <li> Análise e Desenvolvimento de Sistemas 2023 - 2025
 
