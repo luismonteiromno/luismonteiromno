@@ -44,6 +44,7 @@
   <img align="center" alt="Luis-Postman" height="35" width="40"   
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
   <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <br>
   <li> <strong>OS:</strong>
   <img align="center" alt="Luis-Linux" height="30"
    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
