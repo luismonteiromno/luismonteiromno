@@ -18,7 +18,7 @@
 
 ### Tecnologias utilizadas no meu dia a dia:
 <div>
-  <li> <strong>Frontend:</strong>
+  <li> <strong>FRONTEND:</strong>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luis-Npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
@@ -28,7 +28,7 @@
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br>
-  <li> <strong>Backend:</strong>
+  <li> <strong>BACKEND:</strong>
   <img align="center" alt="Luis-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-Pypi" height="35" width="33" src="https://pypi.org/static/images/logo-small.2a411bc6.svg"/>
 <!-- <img align="center" alt="Luis-C" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg">
@@ -52,10 +52,10 @@
   <img align="center" alt="Luis-Ubuntu" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"/>
   <br>
   <br>
-  <li> <strong>IDE'S:</strong>
+<!--   <li> <strong>IDE'S:</strong>
     <img align="center" alt="Luis-Pycharm" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
   <img align="center" alt="Luis-VSCODE" height="30"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> -->
 </div>
 
 ##
