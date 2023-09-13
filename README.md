@@ -39,7 +39,8 @@
   <img align="center" alt="Luis-ExpressJS" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg"/> 
   <img align="center" alt="Luis-Postgres" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<!-- <img align="center" alt="Luis-MySQL" height="40" width="40"   
+<!--   <img align="center" alt="Luis-Cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<!-- <img align="center" alt="Luis-MySQL" height="40" width="40"    
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> -->
   <img align="center" alt="Luis-Postman" height="35" width="40"   
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
