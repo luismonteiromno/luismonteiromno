@@ -51,9 +51,7 @@
   <img align="center" alt="Luis-Mint" height="30" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=black"/>
   <img align="center" alt="Luis-Ubuntu" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"/>
 </div>
-
 ##
- 
 <div> 
   <strong>Contatos:</strong>
   <br>
