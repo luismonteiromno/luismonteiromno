@@ -50,6 +50,12 @@
    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="center" alt="Luis-Mint" height="30" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=black"/>
   <img align="center" alt="Luis-Ubuntu" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"/>
+  <br>
+  <br>
+  <li> <strong>IDE'S:</strong>
+    <img align="center" alt="Luis-Pycharm" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+  <img align="center" alt="Luis-VSCODE" height="30"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
 ##
