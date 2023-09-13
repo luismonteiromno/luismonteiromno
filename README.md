@@ -14,7 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=service-nodeJS&theme=radical"/>
 </div>
 <br>
-
 ### Tecnologias utilizadas no meu dia a dia:
 <div>
   <li> <strong>Frontend:</strong>
