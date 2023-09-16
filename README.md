@@ -9,7 +9,7 @@
 ### Alguns dos meus principais projetos:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Sentryperfomance&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=BarberShopBackend&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaqueRS&repo=barbershop-back&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Crud-of-courses&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=gerador-de-senhas&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=service-nodeJS&theme=radical"/>
