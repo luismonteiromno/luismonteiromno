@@ -55,7 +55,7 @@
   <br>
 <!-- 
    <li> <strong>IDE'S:</strong>
-   <img align="center" alt="Luis-Pycharm" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+    <img align="center" alt="Luis-Pycharm" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
    <img align="center" alt="Luis-VSCODE" height="30"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
 -->
