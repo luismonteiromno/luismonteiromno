@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luis 
+## Olá Eu sou o Luis! 
 #### <li> Técnico em Informática
 #### <li> Developer FullStack
 #### <li> Análise e Desenvolvimento de Sistemas 2023 - 2025
