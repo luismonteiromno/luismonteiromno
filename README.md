@@ -12,7 +12,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Sentryperfomance&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=crud_php_laravel&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaqueRS&repo=barbershop-back&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Sneakers-Store-API&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Crud-of-courses&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=service-nodeJS&theme=radical"/>
 </div>
