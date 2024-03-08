@@ -10,9 +10,9 @@
 
 ### Alguns dos meus principais projetos:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Sentryperfomance&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=NodejsAPI-&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Sneakers-Store-API&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=NodejsAPI-&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Sentryperfomance&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=Crud-of-courses&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisMonteiroDev&repo=service-nodeJS&theme=radical"/>
 </div>
