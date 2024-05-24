@@ -36,8 +36,8 @@
   <img align="center" alt="Luis-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-Pypi" height="35" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg"/>
   <img align="center" alt="Luis-Pypi" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-  <img align="center" alt="Luis-Django" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Django.svg"/>
-  <img align="center" alt="Luis-Django-Rest-Framework" height="70" width="90" src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png"/>
+  <img align="center" alt="Luis-Django" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
+  <img align="center" alt="Luis-Django-Rest-Framework" height="85" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
   <img align="center" alt="Luis-NodeJS" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/> 
   <!-- <img align="center" alt="Luis-Nodemon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" /> -->
   <img align="center" alt="Luis-ExpressJS" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg"/> 
