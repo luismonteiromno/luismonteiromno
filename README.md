@@ -48,8 +48,7 @@
   <img align="center" alt="Luis-Postgres" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <!--   <img align="center" alt="Luis-Cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /> -->
-<!--  <img align="center" alt="Luis-MySQL" height="40" width="40"     -->
- <!--  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> -->
+  <img align="center" alt="Luis-SQLite" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"/>
   <img align="center" alt="Luis-JSON" height="35" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg"/>
   <img align="center" alt="Luis-Bash" height="35" width="40"   
