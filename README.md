@@ -38,6 +38,7 @@
   <img align="center" alt="Luis-Django" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
   <img align="center" alt="Luis-Django-Rest-Framework" height="85" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
   <img align="center" alt="Luis-NodeJS" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/> 
+  <img align="center" alt="Luis-StrapiCMS" height="55" width="100" src="https://web.archive.org/web/20240924092016im_/https://strapi.io/assets/strapi-logo-light.svg"/>
   <img align="center" alt="Luis-ExpressJS" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg"/> 
   <img align="center" alt="Luis-Postgres" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
