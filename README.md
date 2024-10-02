@@ -71,6 +71,7 @@ Sempre fui um amante da área da tecnologia, principalmente no desenvolvimento e
 <div>
   <img align="center" alt="Luis-Linux" height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="center" alt="Luis-Ubuntu" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"/>
+  <img align="center" alt="Luis-Mint" height="30" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=black"/>
 </div>
 
 ## 📫 Contatos
