@@ -11,6 +11,8 @@ Sempre fui um amante da área da tecnologia, principalmente no desenvolvimento e
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=luismonteiromno&show_icons=true&theme=radical"/> 
   <br>
+  <img src="https://streak-stats.demolab.com/?user=luismonteiromno&theme=radical">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismonteiromno&theme=radical&layout=compact"/>
 </div>
 
