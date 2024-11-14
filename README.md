@@ -57,8 +57,8 @@ Amante da área da tecnologia, principalmente no desenvolvimento e na solução 
   <img align="center" alt="Luis-Npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   <img align="center" alt="Luis-Pnpm" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg"/>
   <img align="center" alt="Luis-Yarn" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
-  <img align="center" alt="Luis-Android-Studio" height="40" width="40"   
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+<!--   <img align="center" alt="Luis-Android-Studio" height="40" width="40"   
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> -->
   <img align="center" alt="Luis-Bash" height="35" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
   <img align="center" alt="Luis-Docker" height="75" width="60"   
