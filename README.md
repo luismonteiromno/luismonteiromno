@@ -6,7 +6,7 @@
 <br/>
 **Análise e Desenvolvimento de Sistemas (2023 - 2025)**
 
-Amante da área da tecnologia, principalmente no desenvolvimento e na solução de problemas técnico.💻👨‍💻
+Amante da área da tecnologia, principalmente no desenvolvimento e na solução de problemas técnicos.💻👨‍💻
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=luismonteiromno&show_icons=true&theme=radical"/> 
