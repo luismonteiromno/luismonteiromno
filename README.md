@@ -4,7 +4,7 @@
 <br/>
 **Developer FullStack** 
 <br/>
-**Análise e Desenvolvimento de Sistemas (2023 - 2025)**
+**Análise e Desenvolvimento de Sistemas**
 
 Amante da área da tecnologia, principalmente no desenvolvimento e na solução de problemas técnicos.💻👨‍💻
 
