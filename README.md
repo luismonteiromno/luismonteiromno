@@ -63,8 +63,9 @@ Amante da área da tecnologia, principalmente no desenvolvimento e na solução 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
   <img align="center" alt="Luis-Docker" height="75" width="60"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <img align="center" alt="Luis-Postman" height="35" width="40"   
+  <img align="center" alt="Luis-Insomnia" height="35" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg""/>
+  <img align="center" alt="Luis-Swagger" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg""/>
   <img align="center" alt="Luis-SEQUELIZE-ORM" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"/> 
   <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Luis-Sentry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg"/>
