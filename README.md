@@ -41,7 +41,6 @@ Amante da área da tecnologia, principalmente no desenvolvimento e na solução 
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br/>
   <img align="center" alt="Luis-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luis-Pypi" height="35" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg"/>
   <img align="center" alt="Luis-Pandas" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img align="center" alt="Luis-Django" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
   <img align="center" alt="Luis-Django-Rest-Framework" height="85" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
@@ -57,6 +56,7 @@ Amante da área da tecnologia, principalmente no desenvolvimento e na solução 
   <img align="center" alt="Luis-Npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   <img align="center" alt="Luis-Pnpm" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg"/>
   <img align="center" alt="Luis-Yarn" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
+  <img align="center" alt="Luis-Pypi" height="35" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg"/>
 <!--   <img align="center" alt="Luis-Android-Studio" height="40" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> -->
   <img align="center" alt="Luis-Bash" height="35" width="40"   
