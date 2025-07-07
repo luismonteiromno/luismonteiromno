@@ -30,7 +30,6 @@ Amante da área da tecnologia, principalmente no desenvolvimento e na solução 
 ### 🔧 Linguagens e Frameworks
 <div>
  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> -->
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luis-VueJS" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Luis-ViteJs" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
@@ -58,8 +57,6 @@ Amante da área da tecnologia, principalmente no desenvolvimento e na solução 
   <img align="center" alt="Luis-Yarn" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
   <img align="center" alt="Luis-Pypi" height="35" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg"/>
   <img align="center" alt="Luis-Jupyter" height="35" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
-<!--   <img align="center" alt="Luis-Android-Studio" height="40" width="40"   
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> -->
   <img align="center" alt="Luis-Bash" height="35" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
   <img align="center" alt="Luis-Docker" height="75" width="60"   
