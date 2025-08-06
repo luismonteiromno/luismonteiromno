@@ -41,7 +41,7 @@ Gosto de trabalhar tanto no **frontend** quanto no **backend**, explorando novas
 ---
 
 ## 📊 Gráfico de Atividade
-[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=luismonteiromno&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=luismonteiromno&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
