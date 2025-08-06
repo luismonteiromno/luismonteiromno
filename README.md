@@ -99,9 +99,9 @@ Gosto de trabalhar tanto no **frontend** quanto no **backend**, explorando novas
 
 ---
 
-## ⏳ Tempo de Codificação Semanal
+<!-- ## ⏳ Tempo de Codificação Semanal -->
 <!--START_SECTION:waka-->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisMonteiro&theme=radical)
+<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismonteiromno&theme=radical) -->
 <!--END_SECTION:waka-->
 
 ---
