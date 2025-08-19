@@ -4,7 +4,7 @@
 ⚡ **Desenvolvedor FullStack**  
 🎓 **Análise e Desenvolvimento de Sistemas**  
 
-Apaixonado por tecnologia e desenvolvimento, focado na criação de soluções escaláveis e eficientes.  
+Entusiasta da tecnologia e desenvolvimento, focado na criação de soluções escaláveis e eficientes.  
 Gosto de trabalhar tanto no **frontend** quanto no **backend**, explorando novas tecnologias e boas práticas de programação.
 
 ---
