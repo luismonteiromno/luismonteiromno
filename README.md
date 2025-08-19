@@ -69,6 +69,7 @@ Gosto de trabalhar tanto no **frontend** quanto no **backend**, explorando novas
  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <br/>
  <img alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
  <img alt="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
  <img alt="Django" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
  <img alt="Django Rest Framework" height="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
