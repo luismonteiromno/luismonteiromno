@@ -31,9 +31,7 @@ Gosto de trabalhar tanto no **frontend** quanto no **backend**, explorando novas
 
 ## 🚀 Principais Projetos
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismonteiromno&repo=Sneakers-Store-API&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismonteiromno&repo=NodejsAPI-&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismonteiromno&repo=Sentryperfomance&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismonteiromno&repo=Crud-of-courses&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismonteiromno&repo=service-nodeJS&theme=radical"/>
 </div>
