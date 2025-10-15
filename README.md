@@ -33,7 +33,6 @@ Atuo tanto no **frontend** quanto no **backend**, explorando novas tecnologias, 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismonteiromno&repo=NodejsAPI-&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismonteiromno&repo=BarberShop&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismonteiromno&repo=service-nodeJS&theme=radical"/>
 </div>
 
 ---
