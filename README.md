@@ -41,7 +41,7 @@ Sou Técnico em Informática e graduando em ADS, focado na criação de **soluç
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luismonteiromno&theme=radical&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luismonteiromno&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
