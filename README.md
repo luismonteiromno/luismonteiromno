@@ -19,6 +19,7 @@ Sou Técnico em Informática e graduando em ADS, focado na criação de **soluç
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django%20Rest%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
   <img src="https://img.shields.io/badge/FastAPI-00584B?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
