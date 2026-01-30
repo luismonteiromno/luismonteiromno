@@ -5,7 +5,7 @@
 </div>
 
 ### 🚀 Desenvolvedor FullStack | Análise e Desenvolvimento de Sistemas
-Sou Técnico em Informática e graduando em ADS, focado na criação de **soluções escaláveis e eficientes**. Minha paixão é construir arquiteturas sólidas tanto no **Frontend** quanto no **Backend**, aplicando as melhores práticas de Clean Code e metodologias ágeis.
+Graduado em Análise e Desenvolvimento de Sistemas e Técnico em Informática. Focado na criação de **soluções escaláveis e eficientes**. Minha paixão é construir arquiteturas sólidas tanto no **Frontend** quanto no **Backend**, aplicando as melhores práticas de Clean Code e metodologias ágeis.
 
 ---
 
