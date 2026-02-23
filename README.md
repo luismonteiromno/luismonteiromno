@@ -27,6 +27,7 @@ Graduado em Análise e Desenvolvimento de Sistemas e Técnico em Informática. F
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" />
   <img src="https://img.shields.io/badge/FastAPI-00584B?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a" alt="Celery" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"  />
 </p>
 
 **Banco de Dados, ORM & Ciência de Dados**
