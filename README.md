@@ -27,7 +27,7 @@ class LuisMonteiro:
         self.location    = "Brasil 🇧🇷"
         self.languages   = ["Python", "TypeScript", "JavaScript", "Java"]
         self.focus       = ["Arquitetura de Software", "APIs RESTful", "Performance & Escalabilidade"]
-        self.principles  = ["Clean Code", "SOLID", "DRY", "KISS", "YAGNI"]
+        self.principles  = ["Clean Code", "SOLID"]
 
     def current_goal(self):
         return "Construir sistemas que sobrevivam ao crescimento — e ao tempo."
